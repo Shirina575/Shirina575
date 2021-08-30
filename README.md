@@ -3,7 +3,7 @@
 - 🌐 &nbsp; I am a Web Developer
 - 💼 &nbsp; Currently working on ReactJS.
 
-<h3> 🛠 &nbsp;Skill</h3>
+<h3> 🛠 &nbsp;Experties</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
