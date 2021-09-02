@@ -16,7 +16,8 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirina575&show_icons=true&hide_border=true) <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirina575&theme=buefy&layout=compact" />
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirina575&show_icons=true&hide_border=true)  -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirina575&theme=buefy&layout=compact" />
 
 
 <br/>
