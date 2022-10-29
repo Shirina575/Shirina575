@@ -1,5 +1,5 @@
 <h1 align="Center"> Hey there! I'm Shirina.</h1>
-<h3 align="Center">Microsoft Power Platform Developer.</h3>
+<h3 align="Center">Microsoft Power Platform Developer</h3>
 <h4 align="Center"><b>I am currently learning Data Engineering, focussing on Microsoft Azure.</b></h4>
 
 ---
