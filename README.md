@@ -8,6 +8,8 @@
 <p><b>Computing Tools:</b> <i>Apache Spark, Power BI.</i></p>
 <p><b>Computing Framework:</b> <i>PySpark, Pandas.</i></p>
 <p><b>Databases:</b> <i>Azure SQL Database, MySQL, SQL Server, Oracle, Firebase Database.</i></p>
+<p><b>Microsoft Azure Stack:</b> <i>Azure SQL Database, Data Factory, Azure Databricks (Apache Spark), Azure Synapse Analytics.</i></p>
+<p><b>Microsoft Power Platform Stack:</b> <i>Microsoft Power Automate, Microsoft Power Apps, Power BI.</i></p>
 <p><b>IDE: </b> <i>Visual Studio, VS Code, Sublime.</i></p>
 <p><b>Verson Control:</b> <i>Git, GitHub</i></p>
 <p><b>OS:</b> <i>Windows, Linux</i></p>
