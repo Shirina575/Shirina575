@@ -1,22 +1,26 @@
-<h2> Hey there! I'm Shirina.</h2>
-<img src="https://gpvc.arturio.dev/Shirina575?label=View" style=" float:left, margin-right:10px" />
-
-- 🌐 &nbsp; I am a Java Developer
-- 💼 &nbsp; Currently working on improving my skills and solving problems.
-
-### Experties
-
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <br>
-<br>
-
-### Other Languages I know
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-5A0FC8?style=flat&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma">
+<h1 align="Center"> Hey there! I'm Shirina.</h1>
+<h3 align="Center">Microsoft Power Platform Developer.</h3>
+<h4 align="Center"><b>I am currently learning Data Engineering, focussing on Microsoft Azure.</b></h4>
 
 ---
+<h3>Expertise</h3>
+<p><b>Programming Language:</b> <i>Python, Java, SQL, C, JavaScript, HTML, CSS.</i></p>
+<p><b>Computing Tools:</b> <i>Apache Spark, Power BI.</i></p>
+<p><b>Computing Framework:</b> <i>PySpark, Pandas.</i></p>
+<p><b>Databases:</b> <i>Azure SQL Database, MySQL, SQL Server, Oracle, Firebase Database.</i></p>
+<p><b>IDE: </b> <i>Visual Studio, VS Code, Sublime.</i></p>
+<p><b>Verson Control:</b> <i>Git, GitHub</i></p>
+<p><b>OS:</b> <i>Windows, Linux</i></p>
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shirina575&show_icons=true&hide_border=true)  -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirina575&theme=buefy&layout=compact" />
+##### My GitHub Stats:
+
+[![Shirina575's github stats](https://github-readme-stats.vercel.app/api?username=Shirina575&count_private=true&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+
+
+##### Top Languages Here:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirina575&layout=compact&count_private=true&show_icons=True)
+
 
 
 <br/>
