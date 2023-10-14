@@ -1,17 +1,17 @@
 <h1 align="Center"> Hey there! I'm Shirina.</h1>
-<h3 align="Center">Microsoft Power Platform Developer</h3>
-<h4 align="Center"><b>I am currently learning Data Engineering, focussing on Microsoft Azure.</b></h4>
+<h3 align="Center">Generative AI Engineer</h3>
+<h4 align="Center"><b>Research Interest: </b> Natural Language Processing</h4>
 
 ---
 <h3>Expertise</h3>
 <p><b>Programming Language:</b> <i>Python, Java, SQL, C, JavaScript, HTML, CSS.</i></p>
-<p><b>Computing Tools:</b> <i>Apache Spark, Power BI.</i></p>
-<p><b>Computing Framework:</b> <i>PySpark, Pandas.</i></p>
+<p><b>Computing Framework:</b> <i>PyTorch, PySpark, Pandas, NumPy</i></p>
 <p><b>Databases:</b> <i>Azure SQL Database, MySQL, SQL Server, Oracle, Firebase Database.</i></p>
 <p><b>Microsoft Azure Stack:</b> <i>Azure SQL Database, Azure Data Factory, Azure Databricks (Apache Spark), Azure Synapse Analytics.</i></p>
 <p><b>Microsoft Power Platform Stack:</b> <i>Microsoft Power Automate, Microsoft Power Apps, Power BI.</i></p>
+<p><b>Computing Tools:</b> <i>Apache Spark, Power BI.</i></p>
 <p><b>IDE: </b> <i>Visual Studio, VS Code, Sublime.</i></p>
-<p><b>Verson Control:</b> <i>Git, GitHub</i></p>
+<p><b>Verson Control:</b> <i>Git, GitHub, BitBucket</i></p>
 <p><b>OS:</b> <i>Windows, Linux</i></p>
 
 ##### My GitHub Stats:
