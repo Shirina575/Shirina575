@@ -1,6 +1,6 @@
 <h1 align="Center"> Hey there! I'm Shirina.</h1>
 <h3 align="Center">Generative AI Engineer</h3>
-<h4 align="Center"><b>Research Interest: </b> Natural Language Processing</h4>
+<h4 align="Center"><b>Research Interest: </b> Natural Language Processing (Mainly Generative AI)</h4>
 
 ---
 <h3>Expertise</h3>
