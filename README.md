@@ -1,6 +1,6 @@
 <h1 align="Center"> Hey there! I'm Shirina.</h1>
 <h2 align="Center">Generative AI Engineer</h2>
-<p align="Center"><h3>Research Interest: </h3> <h4></h4>Natural Language Processing - Generative AI, Question Answering (Focused on RAG), Text Summarization, Text Classification, Translation, Automation with LLM<h4></h4></p>
+<p align="Center"><h3>Research Interest: </h3> <h4></h4>Natural Language Processing - Generative AI, Reinforcement Learning with Human Feedback, Question Answering (Focused on RAG), Text Summarization, Text Classification, Translation<h4></h4></p>
 
 ---
 <h3>Expertise</h3>
