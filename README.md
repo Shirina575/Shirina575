@@ -14,18 +14,6 @@
 <p><b>Verson Control:</b> <i>Git, GitHub, BitBucket</i></p>
 <p><b>OS:</b> <i>Windows, Linux</i></p>
 
-##### My GitHub Stats:
-
-[![Shirina575's github stats](https://github-readme-stats.vercel.app/api?username=Shirina575&count_private=true&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
-
-
-##### Top Languages Here:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shirina575&layout=compact&count_private=true&show_icons=True)
-
-
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
