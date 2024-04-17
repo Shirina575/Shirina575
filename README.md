@@ -5,7 +5,7 @@
 ---
 <h3>Expertise</h3>
 <p><b>Programming Language:</b> <i>Python, Java, SQL, C, JavaScript, HTML, CSS.</i></p>
-<p><b>Computing Framework:</b> <i>PyTorch, PySpark, Pandas, NumPy</i></p>
+<p><b>Computing Framework:</b> <i>PyTorch, PySpark, Pandas, NumPy, spaCy, Matplotlib</i></p>
 <p><b>Databases:</b> <i>Azure SQL Database, MySQL, SQL Server, Oracle, Firebase Database.</i></p>
 <p><b>Microsoft Azure Stack:</b> <i>Azure SQL Database, Azure Data Factory, Azure Databricks (Apache Spark), Azure Synapse Analytics.</i></p>
 <p><b>Microsoft Power Platform Stack:</b> <i>Microsoft Power Automate, Microsoft Power Apps, Power BI.</i></p>
